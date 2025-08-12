@@ -9,4 +9,4 @@ In this project I have worked on CRUD operations using Python and SQLIT
 -Step1
 -Step2
 
-(url)(google.com)
+(url)(www.google.com)
